@@ -1,4 +1,4 @@
-# 8_bit_cpu
+# 9_bit_cpu
 A simple 8-bit processor using SystemVerilog, Quartus and DE10 FPGA kit.
 The processor has 8 registers R0 to R7
 The processor has 6 simple instructions: 
